@@ -6,7 +6,12 @@ theme: /
         q!: $regex</start>
         a: Начнём.
         a: Как дела
+        
+    state: Group
+        a: Hello from Katalana!
 
+
+    
     state: Hello
         intent!: /привет
         a: Привет привет
