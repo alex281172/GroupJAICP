@@ -9,8 +9,6 @@ theme: /
         
     state: Group
         a: Hello from Katalana!
-
-
     
     state: Hello
         intent!: /привет
